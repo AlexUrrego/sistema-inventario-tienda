@@ -37,9 +37,3 @@ inventarios_mensuales/     # se crea al ejecutar
 ventas_registradas/        # se crea al ejecutar
 distribuciones_anexas/     # se crea al ejecutar
 ```
-
-## Posibles mejoras
-- Guardar los datos en una base de datos (SQLite, MySQL o SQL Server) en lugar de CSV.
-- Agregar precios para calcular ingresos y no solo unidades.
-- Generar reportes y gráficas de ventas por sector.
-- Alertas de productos con poco stock.
